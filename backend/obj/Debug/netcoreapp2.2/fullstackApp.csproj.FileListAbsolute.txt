@@ -1,0 +1,16 @@
+C:\Users\stefan.meldgaard\code\FullApp\backend\bin\Debug\netcoreapp2.2\fullstackApp.deps.json
+C:\Users\stefan.meldgaard\code\FullApp\backend\bin\Debug\netcoreapp2.2\fullstackApp.runtimeconfig.json
+C:\Users\stefan.meldgaard\code\FullApp\backend\bin\Debug\netcoreapp2.2\fullstackApp.runtimeconfig.dev.json
+C:\Users\stefan.meldgaard\code\FullApp\backend\bin\Debug\netcoreapp2.2\fullstackApp.dll
+C:\Users\stefan.meldgaard\code\FullApp\backend\bin\Debug\netcoreapp2.2\fullstackApp.pdb
+C:\Users\stefan.meldgaard\code\FullApp\backend\obj\Debug\netcoreapp2.2\fullstackApp.csprojAssemblyReference.cache
+C:\Users\stefan.meldgaard\code\FullApp\backend\obj\Debug\netcoreapp2.2\fullstackApp.RazorAssemblyInfo.cache
+C:\Users\stefan.meldgaard\code\FullApp\backend\obj\Debug\netcoreapp2.2\fullstackApp.RazorAssemblyInfo.cs
+C:\Users\stefan.meldgaard\code\FullApp\backend\obj\Debug\netcoreapp2.2\fullstackApp.AssemblyInfoInputs.cache
+C:\Users\stefan.meldgaard\code\FullApp\backend\obj\Debug\netcoreapp2.2\fullstackApp.AssemblyInfo.cs
+C:\Users\stefan.meldgaard\code\FullApp\backend\obj\Debug\netcoreapp2.2\fullstackApp.RazorTargetAssemblyInfo.cache
+C:\Users\stefan.meldgaard\code\FullApp\backend\obj\Debug\netcoreapp2.2\fullstackApp.dll
+C:\Users\stefan.meldgaard\code\FullApp\backend\obj\Debug\netcoreapp2.2\fullstackApp.pdb
+C:\Users\stefan.meldgaard\code\FullApp\backend\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\stefan.meldgaard\code\FullApp\backend\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\stefan.meldgaard\code\FullApp\backend\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
